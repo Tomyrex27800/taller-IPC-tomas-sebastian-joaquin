@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "mutex": "cpp",
+        "xstring": "cpp",
+        "vector": "cpp",
+        "list": "cpp",
+        "thread": "cpp",
+        "random": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
