@@ -62,5 +62,4 @@ int main() {
     cout << "Introduce el numero de hilos: ";
     cin >> n_threads;
     crear_threads(n_threads);
-    return 0;
 }
